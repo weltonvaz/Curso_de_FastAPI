@@ -13,8 +13,11 @@ Página desta aula: https://fastapidozero.dunossauro.com/
 O canal é mantido por uma iniciativa de financiamento coletivo:
 
 Apoia-se: https://apoia.se/livedepython
+
 picpay: @dunossauro
+
 Chave pix: pix.dunossauro@gmail.com
+
 Meus contatos e redes: http://dunossauro.com/
 
 -------------------
